@@ -1,26 +1,3 @@
-# ICLR 2023 Blogposts Track
-
-This is the repository for the blogposts track. This website is based off of the [**al-folio**](https://github.com/alshedivat/al-folio) template.
-Some of their original documentation for using this template is included below, but you can find their full README in the original repo.
-
-### Links
-
-Call for blog posts: https://iclr-blogposts.github.io/2023/call
-
-About: https://iclr-blogposts.github.io/2023/about
-
-Submission guide: https://iclr-blogposts.github.io/2023/submitting
-
-### Track Chairs
-
-- Gauthier Gidel, Mila, UdeM
-- Charlie Gauthier, Mila, UdeM
-- David Dobre, Mila, UdeM
-- Claire Vernade, University of Tuebingen
-- Joan Bruna, NYU
-
-&nbsp;
-
 ---
 
 &nbsp;
