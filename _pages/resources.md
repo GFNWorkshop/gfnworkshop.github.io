@@ -9,9 +9,8 @@ nav_order: 3
 
 # Resources
 
-We can put a list of references, tutorials, helpful repos, paper lists here. (TBD)
-
 ## Papers
+
 ### Conferences and Journals
 - [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://papers.nips.cc/paper/2021/hash/e614f646836aaed9f89ce58e837e2310-Abstract.html). Emmanuel Bengio, Moksh Jain, Maksym Korablyov, Doina Precup, Yoshua Bengio. NeurIPS 2021.
 
@@ -48,9 +47,6 @@ We can put a list of references, tutorials, helpful repos, paper lists here. (TB
 ### Workshops
 - TBD
 
-### Preprints
-- TBD
-
-## Repos
-
+### Coding
+- [GFlowNet Tutorial](https://colab.research.google.com/drive/1fUMwgu2OhYpQagpzU5mhe9_Esib3Q2VR). Emmanuel Bengio.
 - TBD
